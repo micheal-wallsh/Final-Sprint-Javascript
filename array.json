@@ -1,0 +1,23 @@
+
+  [
+    {
+      "name": "Pancakes",
+      "cost": 10
+    },
+    {
+      "name": "Waffles",
+      "cost": 12
+    },
+    {
+      "name": "French Toast",
+      "cost": 13.75
+    },
+    {
+      "name": "Bacon",
+      "cost": 5
+    },
+    {
+      "name": "Eggs",
+      "cost": 7.25
+    }
+  ]
